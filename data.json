@@ -1,6 +1,6 @@
 [
     {
-        "Product-Image": "Apple",
+        "Product-Image": "../images/Loveabowl Grain Fre.png",
         "Product-Name": "HUFT Eco-Friendly Cat Litter - 10 L",
         "Product-Price": "1600"
     },
@@ -166,10 +166,6 @@
         "Product-Name": "Loveabowl Grain Free Herring, Salmon Dry Food",
         "Product-Price": "1500"
     },
-
-
-
-    
     {
         "Product-Image": "Apple",
         "Product-Name": "Whiskas Tuna With Kanikama and Carrot Wet Cat Food - Pack of 24",
